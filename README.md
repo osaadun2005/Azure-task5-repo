@@ -36,9 +36,29 @@ Perequisite
 
 3. Steps to Deploy
 
-  - Draw.io Architecture Design On going
+
+
+<img width="511" height="405" alt="image" src="https://github.com/user-attachments/assets/dee25018-126c-4719-b187-2e99cec913ff" />
+
+
+  - Draw.io Architecture Overview Design
+
+
+<img width="3600" height="2292" alt="image" src="https://github.com/user-attachments/assets/0287c963-2ab7-46a6-bb01-651cea16a87b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
     
-   <img width="1070" height="985" alt="image" src="https://github.com/user-attachments/assets/0909cb34-c432-4ada-8fc9-9caf3f390d6b" />
 
 
 
